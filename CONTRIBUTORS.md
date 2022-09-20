@@ -44,7 +44,7 @@
 
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
 
-- [@hoyeen01](https://github.com/hoyeen
+- [@hoyeen01](https://github.com/hoyeen)
 
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 
